@@ -137,7 +137,7 @@ h6, .h6 {
     border: 1px solid #fff !important; }
 
 body {
-  background-color: #333333;
+  background-color: #A6D2C9;
   overflow-x: hidden; }
 
 ::selection {
@@ -710,7 +710,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #329766;
-  font-family: "sans-serif";
+  font-family: "Raleway", sans-serif;
   text-align: center;
   padding: 10px;
   color: #fff;

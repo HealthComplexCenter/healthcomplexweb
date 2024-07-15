@@ -4,12 +4,12 @@ draft: false
 # page title background image
 # bg_image: "images/banner/banner-1.png"
 # about image
-# image: "images/about/about-page.png"
+image: "images/about/about-us.jfif"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : ""
 ---
 
-## ABOUT OUR JOURNY
+## ABOUT US
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,

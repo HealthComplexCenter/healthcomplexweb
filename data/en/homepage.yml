@@ -36,6 +36,12 @@ slider:
     #     label : "Apply now"
     #     link : "contact/"
 
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.
+
 
 ############################### Banner feature ###############################
 banner_feature:
@@ -107,7 +113,7 @@ success_story:
   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
   # video link
-  video_link : ""
+  video_link : "https://www.youtube.com/watch?v=NXWzj9sPD9k"
 
 
 ############################# event ################################
@@ -119,7 +125,7 @@ event:
   
 ########################### funfacts ############################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
@@ -141,8 +147,3 @@ funfacts:
 
 
 
-############################# blog ################################
-blog:
-  enable : true
-  title : "Latest News"
-  # blog item comes from "content/**/blog" folder.

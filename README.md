@@ -3,14 +3,15 @@ Repository of the Copenhagen Health Complexity website
 
 ## To-do list
 
-- [ ] Edit CSS styles
+- [ ] Ensure visual consitency in pages that are not the homepage (edit CSS files)
+- [ ] Remove columns and links from the footer
 - [ ] Change content
 - [ ] Deploy to Netlify
 - [ ] Add web address and ensure https
 
 ## Pre-requisites
 
-Install `Hugo`. `Go` and `NodeJS` using the [following guide](https://docs.gethugothemes.com/educenter/installation/).
+Install `Hugo`, `Go` and `NodeJS` using the [following guide](https://docs.gethugothemes.com/educenter/installation/).
 Once installed open a terminal in the root folder of this project and run `hugo server`.
 
 ## File structure

@@ -6,7 +6,7 @@
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="dk-dk"
+                hreflang="dk"
                 href="http://localhost:1313/dk/"
                 />
     <xhtml:link
@@ -15,22 +15,46 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-3/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/event/event-3/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/event/event-4/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/event/event-4/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-6/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/event/event-6/</loc>
@@ -45,7 +69,13 @@
     <loc>http://localhost:1313/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/automation/</loc>
@@ -58,7 +88,7 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="dk-dk"
+                hreflang="dk"
                 href="http://localhost:1313/dk/categories/"
                 />
     <xhtml:link
@@ -85,19 +115,37 @@
     <loc>http://localhost:1313/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/blog-post-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/blog-post-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/english/</loc>
@@ -106,19 +154,37 @@
     <loc>http://localhost:1313/categories/english-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/research-6/</loc>
@@ -127,13 +193,25 @@
     <loc>http://localhost:1313/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/mathmatics-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notice/</loc>
@@ -142,10 +220,19 @@
     <loc>http://localhost:1313/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rules/</loc>
@@ -155,7 +242,7 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="dk-dk"
+                hreflang="dk"
                 href="http://localhost:1313/dk/tags/"
                 />
     <xhtml:link
@@ -164,19 +251,37 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notice/notice-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notice/notice-6/</loc>
@@ -185,35 +290,68 @@
     <loc>http://localhost:1313/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/alex-rook/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/alex-rook/</loc>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/scholarship/scholarship-1/</loc>
+  </url><url>
     <loc>http://localhost:1313/scholarship/scholarship-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/scholarship/scholarship-2/</loc>
   </url><url>
     <loc>http://localhost:1313/scholarship/scholarship-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/scholarship/scholarship-3/</loc>
+  </url><url>
     <loc>http://localhost:1313/scholarship/scholarship-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/clark-malik/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/clark-malik/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/teacher/devid-luis/</loc>
+  </url><url>
     <loc>http://localhost:1313/teacher/devid-luis/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/teacher/duis-rio/</loc>
+  </url><url>
     <loc>http://localhost:1313/teacher/duis-rio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/jacke-mastio/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/jacke-mastio/</loc>
   </url><url>
     <loc>http://localhost:1313/author/john-doe/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/author/john-doe/</loc>
+  </url><url>
     <loc>http://localhost:1313/author/mark-dinn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/author/mark-dinn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/scholarship/</loc>
+  </url><url>
     <loc>http://localhost:1313/scholarship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/zim-cook/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/zim-cook/</loc>
   </url>

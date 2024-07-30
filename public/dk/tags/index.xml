@@ -5,7 +5,7 @@
     <link>http://localhost:1313/dk/tags/</link>
     <description>Recent content in Tags on Copenhagen Health Complexity Center</description>
     <generator>Hugo</generator>
-    <language>dk-dk</language>
+    <language>dk</language>
     <atom:link href="http://localhost:1313/dk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

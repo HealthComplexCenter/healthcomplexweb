@@ -10,7 +10,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="dk-dk"
+                hreflang="dk"
                 href="http://localhost:1313/dk/categories/"
                 />
   </url><url>
@@ -22,7 +22,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="dk-dk"
+                hreflang="dk"
                 href="http://localhost:1313/dk/"
                 />
   </url><url>
@@ -34,7 +34,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="dk-dk"
+                hreflang="dk"
                 href="http://localhost:1313/dk/tags/"
                 />
   </url>

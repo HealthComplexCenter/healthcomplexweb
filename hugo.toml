@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://healthcomplex.dk"
+baseURL = "https://healthcomplex.dk/"
 title = "Copenhagen Health Complexity Center"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -11,8 +11,7 @@ summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # google analytics
 # googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disable language
-disableLanguages = [
-] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+# disableLanguages = ["Dk"] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 ############################# Build ##############################
@@ -40,7 +39,7 @@ home = ["HTML", "RSS"]
 [imaging]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
-quality = 90
+quality = 75
 resampleFilter = "lanczos"
 
 ############################# Caches ###############################
@@ -173,54 +172,80 @@ copyright = "Copyright &copy; 2024 based on the [Educenter Hugo theme](https://g
 
 # main menu
 [[Languages.en.menu.main]]
-name = "About"
-url = "about/"
+name = "Research"
+url = "research/"
 weight = 1
 
+  [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "Research themes"
+  url = "themes/"
+
+  [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "Publications"
+  url = "publications/"
+
+  [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "Public engagement"
+  url = "engagement/"
+
 [[Languages.en.menu.main]]
-name = "Course"
-url = "course/"
+name = "Education"
+url = "education/"
 weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "Education"
+  name = "Courses"
+  url = "courses/"
+
+  [[Languages.en.menu.main]]
+  parent = "Education"
+  name = "Publications"
+  url = "publications/"
+
 
 [[Languages.en.menu.main]]
 weight = 3
-name = "Pages"
+name = "Community"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
+  parent = "Community"
+  name = "People"
   url = "teacher/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
+  parent = "Community"
+  name = "Advisory group"
   url = "notice/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
+  parent = "Community"
+  name = "Fellows"
   url = "event/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
+[[Languages.en.menu.main]]
+weight = 4
+name = "About us"
+hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
-  
-[[Languages.en.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 4
-  
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
+  parent = "About us"
+  name = "Mission"
+  url = "about/mission/"
+
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Values"
+  url = "about/values/"
+
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Contact"
+  url = "contact/"
 
 
 # footer menu
@@ -248,11 +273,11 @@ url = "research/"
 
 
 ################################### Danish language #####################################
-[Languages.dk]
-languageName = "Dk"
-languageCode = "dk-dk"
-contentDir = "content/danish"
-weight = 2
+#[Languages.dk]
+#languageName = "Dk"
+#languageCode = "dk-dk"
+#contentDir = "content/danish"
+#weight = 2
 
 [Languages.dk.params]
 home = "Hjemmeside"

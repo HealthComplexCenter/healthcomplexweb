@@ -15,14 +15,14 @@ slider:
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "This page is under construction"
+      content : "Content is emerging, developers are interacting"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Patience is a virute"
         link : "contact/"
 
     # slider item loop

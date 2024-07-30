@@ -116,8 +116,8 @@ a h4{
     width: 100%;
     top: 0;
     left: 0;
-    background: $secondary-color;
-    opacity: .1;
+    background: $primary-color;
+    opacity: .5;
   }
 }
 
@@ -166,7 +166,8 @@ a h4{
 }
 
 .font-secondary {
-  font-family: $secondary-font;
+  // TODO this might need a change
+  font-family: $primary-font;
 }
 
 .mb-10 {

@@ -15,12 +15,14 @@
   // background: $secondary-color;
   // background: $secondary-color 50%;
   transition: .2s ease;
+  background: rgba(0,0,0,0);
+  // opacity: 0;
 
   @include desktop {
-    background: $secondary-color;
+    background: $primary-color;
 
     .navbar-brand {
-      padding: 12px 0;
+      // padding: 12px 0;
     }
   }
 }
@@ -33,7 +35,7 @@
 
 .navbar-nav {
   padding-left: 0px;
-  background: $primary-color;
+  background: rgba(0,0,0,0);
 
   @include desktop {
     padding-left: 20px;

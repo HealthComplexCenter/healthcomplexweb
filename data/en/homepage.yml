@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Patience is a virute"
+        label : "Patience is a virtue"
         link : "contact/"
 
     # slider item loop

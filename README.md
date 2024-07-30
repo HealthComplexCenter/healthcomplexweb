@@ -8,11 +8,11 @@ Once installed open a terminal in the root folder of this project and run `hugo 
 
 ## To-do list
 
-- [ ] Ensure visual consitency in pages that are not the homepage (edit CSS files)
-- [ ] Fix the refenrencing to localhost
-- [ ] Remove DK support
-- [X] Remove columns and links from the footer
 - [ ] Implemenent content folder structure
+- [X] Ensure visual consitency in pages that are not the homepage (edit CSS files)
+- [X] Fix the refenrencing to localhost
+- [X] Remove DK support
+- [X] Remove columns and links from the footer
 - [X] Deploy to Netlify
 - [x] Add web address and ensure https
 

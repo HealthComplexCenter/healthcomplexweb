@@ -439,7 +439,7 @@ textarea.form-control {
 
 .top-header {
   font-size: 19px;
-  transition: transform .3s ease;
+  transition: transform .2s ease;
   transform-origin: top;
   font-weight: 600; }
   .top-header.hide {
@@ -448,7 +448,7 @@ textarea.form-control {
 
 .navigation {
   transition: .2s ease;
-  background: transparent; }
+  background: rgba(0, 0, 0, 0); }
   @media (max-width: 991px) {
     .navigation {
       background: #329766; }
@@ -459,17 +459,17 @@ textarea.form-control {
     background: #329766; } }
 
 .navbar-nav {
-  padding-left: 75px;
+  padding-left: 0px;
   background: rgba(0, 0, 0, 0); }
   @media (max-width: 991px) {
     .navbar-nav {
-      padding-left: 75px;
+      padding-left: 20px;
       background: #329766; } }
 .nav-bg {
   background-color: #329766; }
 
 .nav-item {
-  margin: 60px 35px;
+  margin: 20px 25px;
   position: relative; }
   .nav-item .nav-link {
     font-weight: 600; }
@@ -501,17 +501,20 @@ link:focus,
 .navbar-dark .navbar-nav .show > .nav-link {
   color: #fff; }
 
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 50px 0px; }
+
 .sticky {
   position: fixed;
   top: 0;
   width: 100%;
   z-index: 10;
   background: #fff;
-  box-shadow: 0 2px 5px #333333; }
+  box-shadow: 0 2px 5px #0000000d; }
 
 .navbar .dropdown:hover .dropdown-menu {
   visibility: visible;
-  opacity: .9;
+  opacity: .8;
   transform: translateY(0); }
 
 .navbar .dropdown-menu {

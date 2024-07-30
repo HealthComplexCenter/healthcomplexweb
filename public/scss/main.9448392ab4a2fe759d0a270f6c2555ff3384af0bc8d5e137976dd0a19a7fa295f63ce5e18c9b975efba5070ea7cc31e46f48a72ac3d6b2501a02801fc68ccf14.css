@@ -469,7 +469,7 @@ textarea.form-control {
   background-color: #329766; }
 
 .nav-item {
-  margin: 60px 35px;
+  margin: 20px 25px;
   position: relative; }
   .nav-item .nav-link {
     font-weight: 600; }
@@ -511,7 +511,7 @@ link:focus,
 
 .navbar .dropdown:hover .dropdown-menu {
   visibility: visible;
-  opacity: .9;
+  opacity: .8;
   transform: translateY(0); }
 
 .navbar .dropdown-menu {

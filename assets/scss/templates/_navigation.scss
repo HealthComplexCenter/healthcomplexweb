@@ -1,6 +1,6 @@
 .top-header {
   font-size: 19px;
-  transition: transform .2s ease;
+  transition: transform .3s ease;
   transform-origin: top;
   font-weight: 600;
 
@@ -15,14 +15,14 @@
   // background: $secondary-color;
   // background: $secondary-color 50%;
   transition: .2s ease;
-  background: rgba(0,0,0,0);
+  background: transparent;
   // opacity: 0;
 
   @include desktop {
     background: $primary-color;
 
     .navbar-brand {
-      // padding: 12px 0;
+      padding: 12px 0;
     }
   }
 }
@@ -34,11 +34,11 @@
 }
 
 .navbar-nav {
-  padding-left: 0px;
+  padding-left: 75px;
   background: rgba(0,0,0,0);
 
   @include desktop {
-    padding-left: 20px;
+    padding-left: 75px;
     background: $primary-color;
   }
 }
@@ -53,7 +53,7 @@
     font-weight: 600;
   }
 
-  margin: 20px 25px;
+  margin: 60px 35px;
   position: relative;
 
   &::before {
@@ -108,7 +108,7 @@ link:focus,
   width: 100%;
   z-index: 10;
   background: $white;
-  box-shadow: 0 2px 5px #0000000d;
+  box-shadow: 0 2px 5px #333333;
 }
 
 .navbar {
@@ -116,7 +116,7 @@ link:focus,
     &:hover {
       .dropdown-menu {
         visibility: visible;
-        opacity: .8;
+        opacity: .9;
         transform: translateY(0)
       }
     }

@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "This teacher was born in 1980 in New York. He has been teaching computer science for 10 years. He is a specialist in computer networking, computer security, and human-computer interfacing."
 # teacher portrait
 image: "images/teachers/teacher-1.jpg"
 # course

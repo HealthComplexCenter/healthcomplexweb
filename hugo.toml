@@ -179,7 +179,7 @@ weight = 1
   [[Languages.en.menu.main]]
   parent = "Research"
   name = "Research themes"
-  url = "themes/"
+  url = "research/"
 
   [[Languages.en.menu.main]]
   parent = "Research"
@@ -203,8 +203,8 @@ weight = 2
 
   [[Languages.en.menu.main]]
   parent = "Education"
-  name = "Publications"
-  url = "publications/"
+  name = "Student Projects"
+  url = "studentprojects/"
 
 
 [[Languages.en.menu.main]]
@@ -215,7 +215,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Community"
   name = "People"
-  url = "teacher/"
+  url = "people/"
 
   [[Languages.en.menu.main]]
   parent = "Community"

@@ -319,6 +319,10 @@
   </url><url>
     <loc>http://localhost:1313/scholarship/scholarship-3/</loc>
   </url><url>
+    <loc>http://localhost:1313/english/people/clark-malik/</loc>
+  </url><url>
+    <loc>http://localhost:1313/people/clark-malik/</loc>
+  </url><url>
     <loc>http://localhost:1313/english/teacher/clark-malik/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/clark-malik/</loc>
@@ -342,6 +346,10 @@
     <loc>http://localhost:1313/author/mark-dinn/</loc>
   </url><url>
     <loc>http://localhost:1313/english/author/mark-dinn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/people/</loc>
+  </url><url>
+    <loc>http://localhost:1313/people/</loc>
   </url><url>
     <loc>http://localhost:1313/english/teacher/</loc>
   </url><url>

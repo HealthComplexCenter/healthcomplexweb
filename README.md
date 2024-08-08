@@ -43,8 +43,11 @@ Once installed open a terminal in the root folder of this project and run `hugo 
 | Main settings | `hugo.toml` |
 |Images | `static/images` |
 |Content | `content/` | 
-|CSS files | `themes/educenter-hugp/assets/scss` | 
+|CSS files | `assets/scss` | 
 |Home website layout | `/data/en/homepage.yml` |
+|Html templates | `/layouts/` |
+
+# Layouts
 
 
 ## Hugo resources

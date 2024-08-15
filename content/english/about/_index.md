@@ -2,7 +2,7 @@
 title: "About Us"
 draft: false
 # page title background image
-# bg_image: "images/banner/banner-1.png"
+bg_image: "images/about/about-us.jfif"
 # about image
 image: "images/about/about-us.jfif"
 # meta description

@@ -199,7 +199,7 @@ weight = 2
   [[Languages.en.menu.main]]
   parent = "Education"
   name = "Courses"
-  url = "courses/"
+  url = "course/"
 
   [[Languages.en.menu.main]]
   parent = "Education"

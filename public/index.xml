@@ -94,31 +94,45 @@
     </item>
     <item>
       <title>Algorithm</title>
-      <link>http://localhost:1313/course/course-5/</link>
+      <link>http://localhost:1313/courses/course-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-5/</guid>
+      <guid>http://localhost:1313/courses/course-5/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Algorithm</title>
-      <link>http://localhost:1313/english/course/course-5/</link>
+      <link>http://localhost:1313/english/courses/course-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-5/</guid>
+      <guid>http://localhost:1313/english/courses/course-5/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/course/course-3/</link>
+      <link>http://localhost:1313/courses/course-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-3/</guid>
+      <guid>http://localhost:1313/courses/course-3/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/english/course/course-3/</link>
+      <link>http://localhost:1313/english/courses/course-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-3/</guid>
+      <guid>http://localhost:1313/english/courses/course-3/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    <item>
+      <title>Complexity in public health</title>
+      <link>http://localhost:1313/english/research/research-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/research/research-3/</guid>
+      <description>At the Copenhagen Health Complexity Center, we develop practical tools for analyzing complex health problems.</description>
+    </item>
+    <item>
+      <title>Complexity in public health</title>
+      <link>http://localhost:1313/research/research-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/research/research-3/</guid>
+      <description>At the Copenhagen Health Complexity Center, we develop practical tools for analyzing complex health problems.</description>
     </item>
     <item>
       <title>Elegant Light Box Paper Cut Dioramas</title>
@@ -205,129 +219,59 @@
       <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-1/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/research/research-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/research-1/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
+      <title>Health inequalities</title>
       <link>http://localhost:1313/english/research/research-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/english/research/research-2/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Health inequalities are a major societal challenge, and evidence suggests that health inequality is established in childhood and may even transcend generations.</description>
     </item>
     <item>
-      <title>Geography</title>
+      <title>Health inequalities</title>
       <link>http://localhost:1313/research/research-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/research/research-2/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-3/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/research/research-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/research-3/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-4/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/research/research-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/research-4/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-5/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/research/research-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/research-5/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-6/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/research/research-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/research-6/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Health inequalities are a major societal challenge, and evidence suggests that health inequality is established in childhood and may even transcend generations.</description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/course/course-4/</link>
+      <link>http://localhost:1313/courses/course-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-4/</guid>
+      <guid>http://localhost:1313/courses/course-4/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/english/course/course-4/</link>
+      <link>http://localhost:1313/english/courses/course-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-4/</guid>
+      <guid>http://localhost:1313/english/courses/course-4/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Mathematics</title>
-      <link>http://localhost:1313/course/course-2/</link>
+      <link>http://localhost:1313/courses/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-2/</guid>
+      <guid>http://localhost:1313/courses/course-2/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Mathematics</title>
-      <link>http://localhost:1313/english/course/course-2/</link>
+      <link>http://localhost:1313/english/courses/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-2/</guid>
+      <guid>http://localhost:1313/english/courses/course-2/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Photography</title>
-      <link>http://localhost:1313/course/course-1/</link>
+      <link>http://localhost:1313/courses/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-1/</guid>
+      <guid>http://localhost:1313/courses/course-1/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Photography</title>
-      <link>http://localhost:1313/english/course/course-1/</link>
+      <link>http://localhost:1313/english/courses/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-1/</guid>
+      <guid>http://localhost:1313/english/courses/course-1/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
@@ -416,17 +360,31 @@
     </item>
     <item>
       <title>Vlogging</title>
-      <link>http://localhost:1313/course/course-6/</link>
+      <link>http://localhost:1313/courses/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-6/</guid>
+      <guid>http://localhost:1313/courses/course-6/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Vlogging</title>
-      <link>http://localhost:1313/english/course/course-6/</link>
+      <link>http://localhost:1313/english/courses/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-6/</guid>
+      <guid>http://localhost:1313/english/courses/course-6/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    <item>
+      <title>Young adult health</title>
+      <link>http://localhost:1313/english/research/research-1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/research/research-1/</guid>
+      <description>The vision of the Copenhagen Health Complexity Center is to understand real-world health complexities among young adults.</description>
+    </item>
+    <item>
+      <title>Young adult health</title>
+      <link>http://localhost:1313/research/research-1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/research/research-1/</guid>
+      <description>The vision of the Copenhagen Health Complexity Center is to understand real-world health complexities among young adults.</description>
     </item>
     <item>
       <title>Alex Rook</title>

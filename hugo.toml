@@ -220,12 +220,12 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Community"
   name = "Advisory group"
-  url = "notice/"
+  url = "advisory/"
 
   [[Languages.en.menu.main]]
   parent = "Community"
   name = "Fellows"
-  url = "event/"
+  url = "fellows/"
 
 [[Languages.en.menu.main]]
 weight = 4
@@ -235,12 +235,12 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Mission"
-  url = "about/mission/"
+  url = "mission/"
 
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Values"
-  url = "about/values/"
+  url = "values/"
 
   [[Languages.en.menu.main]]
   parent = "About us"

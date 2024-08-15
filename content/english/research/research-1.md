@@ -1,21 +1,15 @@
 ---
-title: "Geography"
+title: "Young adult health"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Understanding real-world health complexities among young adults."
 # Research image
 image: "images/research/research-1.jpg"
 # type
 type: "research"
 ---
 
-### About Research
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+The vision of the Copenhagen Health Complexity Center is to understand real-world health complexities among young adults. The health and social issue, which arise during this life period, affect not only the individual, but also their families, their workplaces, and may have long-lasting effects on later life health and social trajectories. However, the causes and consequences of these health and social issues are intertwined, complex and often understudied, and fundamental questions on health and social issues among young adults remain unanswered. By shedding light on the distinct patterns and characteristics of health and social issues in this age group, the Center aims to address the underlying dynamics that contribute to these problems. This research theme is funded by TrygFonden.

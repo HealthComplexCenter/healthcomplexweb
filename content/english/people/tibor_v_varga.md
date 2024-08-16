@@ -10,27 +10,25 @@ image: "images/teachers/TiborVVarga.jpg"
 # course
 course: "Health Inequality"
 # biography
-bio: "This teacher was born in 1980 in New York. He has been teaching computer science for 10 years. He is a specialist in computer networking, computer security, and human-computer interfacing."
-# interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+bio: "Associate Professor | Deputy Director"
 # contact info
 contact:
-  # contact item loop
+  # email
   - name : "Tibor.Varga@sund.ku.dk"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:Tibor.Varga@sund.ku.dk"
 
-  # contact item loop
+  # tel
   - name : "+4535327739"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+4535327739"
 
-  # contact item loop
+  # linkedin
   - name : "https://www.linkedin.com/in/tiborvvarga/"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "https://www.linkedin.com/in/tiborvvarga/"
 
-  # contact item loop
+  # github
   - name : "https://github.com/Tirgit"
     icon : "ti-github" # icon pack : https://themify.me/themify-icons
     link : "https://github.com/Tirgit"

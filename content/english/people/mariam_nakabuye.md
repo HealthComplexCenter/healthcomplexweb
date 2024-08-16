@@ -1,5 +1,5 @@
 ---
-title: "Person"
+title: "Mariam Nakabuye"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -16,24 +16,24 @@ bio: "Coming soon"
 # contact info
 contact:
   # email
-  - name : "Tibor.Varga@sund.ku.dk"
+  - name : "mariam.nakabuye@sund.ku.dk"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:Tibor.Varga@sund.ku.dk"
+    link : "mailto:mariam.nakabuye@sund.ku.dkdk"
 
   # tel
-  - name : "+4535327739"
+  - name : "+4535325451"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+4535327739"
+    link : "tel:+4535325451"
 
   # linkedin
-  - name : "https://www.linkedin.com/in/tiborvvarga/"
+  - name : "https://www.linkedin.com/in/mariam-hannah-n-163a2b99/"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "https://www.linkedin.com/in/tiborvvarga/"
+    link : "https://www.linkedin.com/in/mariam-hannah-n-163a2b99/"
 
   # github
-  - name : "https://github.com/Tirgit"
+  - name : "https://github.com/MHannahK"
     icon : "ti-github" # icon pack : https://themify.me/themify-icons
-    link : "https://github.com/Tirgit"
+    link : "https://github.com/MHannahK"
 
 # type
 type: "teacher"

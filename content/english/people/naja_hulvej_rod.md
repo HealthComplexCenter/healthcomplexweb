@@ -30,6 +30,11 @@ contact:
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "https://www.linkedin.com/in/naja-hulvej-rod-249688b8/"
 
+  # twitter
+  - name : "https://twitter.com/HulvejRod"
+    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+    link : "https://twitter.com/HulvejRod"
+
 # type
 type: "teacher"
 ---

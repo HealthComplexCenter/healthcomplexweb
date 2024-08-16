@@ -1,5 +1,5 @@
 ---
-title: "Adrian G. Zucco"
+title: "Bertina	Kreshpaj"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,27 +11,24 @@ image: "images/teachers/person.jpeg"
 course: "Health Inequality"
 # biography
 bio: "Coming soon"
+# interest
+# interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # email
-  - name : "adrigabzu@sund.ku.dk"
+  - name : "bertina.kreshpaj@sund.ku.dk"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:adrigabzu@sund.ku.dk"
+    link : "mailto:bertina.kreshpaj@sund.ku.dk"
 
   # tel
-  - name : "+4535331363"
+  - name : "+4535327364"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+4535331363"
+    link : "tel:+4535327364"
 
   # linkedin
-  - name : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
+  - name : "https://www.linkedin.com/in/bertina-kreshpaj-37826374/"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
-
-  # github
-  - name : "https://github.com/adrigabzu"
-    icon : "ti-github" # icon pack : https://themify.me/themify-icons
-    link : "https://github.com/adrigabzu"
+    link : "https://www.linkedin.com/in/bertina-kreshpaj-37826374/"
 
 # type
 type: "teacher"

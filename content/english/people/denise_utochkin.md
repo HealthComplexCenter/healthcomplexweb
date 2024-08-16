@@ -1,5 +1,5 @@
 ---
-title: "Adrian G. Zucco"
+title: "Denise Utochkin"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,27 +11,35 @@ image: "images/teachers/person.jpeg"
 course: "Health Inequality"
 # biography
 bio: "Coming soon"
+# interest
+# interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # email
-  - name : "adrigabzu@sund.ku.dk"
+  - name : "denise.utochkin@sund.ku.dk"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:adrigabzu@sund.ku.dk"
+    link : "mailto:denise.utochkin@sund.ku.dk"
 
   # tel
-  - name : "+4535331363"
+  - name : "+4535334573"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+4535331363"
+    link : "tel:+4535334573"
 
   # linkedin
-  - name : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
+  - name : "https://www.linkedin.com/in/denise-utochkin-a57225b6/"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
+    link : "https://www.linkedin.com/in/denise-utochkin-a57225b6/"
 
   # github
-  - name : "https://github.com/adrigabzu"
+  - name : "https://github.com/werbliben"
     icon : "ti-github" # icon pack : https://themify.me/themify-icons
-    link : "https://github.com/adrigabzu"
+    link : "https://github.com/werbliben"
+
+  # twitter
+  - name : "https://twitter.com/werbliben"
+    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+    link : "https://twitter.com/werbliben"
+
 
 # type
 type: "teacher"

@@ -1,5 +1,5 @@
 ---
-title: "Adrian G. Zucco"
+title: "Long Nguyen"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,27 +11,24 @@ image: "images/teachers/person.jpeg"
 course: "Health Inequality"
 # biography
 bio: "Coming soon"
+# interest
+# interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # email
-  - name : "adrigabzu@sund.ku.dk"
+  - name : "long@sund.ku.dk"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:adrigabzu@sund.ku.dk"
+    link : "mailto:long@sund.ku.dk"
 
   # tel
-  - name : "+4535331363"
+  - name : "+4535335402"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+4535331363"
-
-  # linkedin
-  - name : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
-    icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
+    link : "tel:+4535335402"
 
   # github
-  - name : "https://github.com/adrigabzu"
+  - name : "https://github.com/long-nguyensen"
     icon : "ti-github" # icon pack : https://themify.me/themify-icons
-    link : "https://github.com/adrigabzu"
+    link : "https://github.com/long-nguyensen"
 
 # type
 type: "teacher"

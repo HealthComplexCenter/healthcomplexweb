@@ -1,0 +1,64 @@
+---
+title: "Tibor V. Varga"
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# meta description
+description : "Meet our team"
+# teacher portrait
+image: "images/teachers/teacher-1.jpg"
+# course
+course: "Health Inequality"
+# biography
+bio: "This teacher was born in 1980 in New York. He has been teaching computer science for 10 years. He is a specialist in computer networking, computer security, and human-computer interfacing."
+# interest
+interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+# contact info
+contact:
+  # contact item loop
+  - name : "Tibor.Varga@sund.ku.dk"
+    icon : "ti-email" # icon pack : https://themify.me/themify-icons
+    link : "mailto:Tibor.Varga@sund.ku.dk"
+
+  # contact item loop
+  - name : "+4535327739"
+    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
+    link : "tel:+4535327739"
+
+  # contact item loop
+  - name : "Clark Malik"
+    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+    link : "#"
+
+  # contact item loop
+  - name : "Clark Malik"
+    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+    link : "#"
+
+  # contact item loop
+  - name : "Clark Malik"
+    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
+    link : "#"
+
+  # contact item loop
+  - name : "clarkmalik.com"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "#"
+
+  # contact item loop
+  - name : "1313 Boulevard Cremazie,Quebec"
+    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
+    link : "#"
+
+# type
+type: "teacher"
+---
+
+### About Me
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+
+nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.

@@ -1,5 +1,5 @@
 ---
-title: "Adam Bencard"
+title: "David Taylor-Robinson"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,23 +8,13 @@ description : "Meet our team"
 # teacher portrait
 image: "images/teachers/person.jpeg"
 # course
-course: "Associate Professor"
+course: ""
 # biography
-bio: "Coming soon"
+bio: "University of Liverpool"
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
-  # email
-  - name : "adam@sund.ku.dk"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:adam@sund.ku.dk"
-
-  # tel
-  - name : "+4535320875"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+4535320875"
-
 
 # type
 type: "teacher"

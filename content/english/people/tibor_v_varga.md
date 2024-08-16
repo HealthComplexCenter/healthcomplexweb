@@ -6,9 +6,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Meet our team"
 # teacher portrait
-image: "images/teachers/TiborVVarga.jpg"
+image: "images/teachers/person.jpeg"
 # course
-course: "Health Inequality"
+course: "Associate Professor"
 # biography
 bio: "Associate Professor | Deputy Director"
 # contact info

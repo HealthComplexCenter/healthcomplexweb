@@ -8,7 +8,7 @@ description : "Meet our team"
 # teacher portrait
 image: "images/teachers/person.jpeg"
 # course
-course: "Health Inequality"
+course: "Doctoral Student"
 # biography
 bio: "Coming soon"
 # interest

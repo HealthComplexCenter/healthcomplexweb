@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/logo_squared.png"
 # taxonomy
-category: "Complexity"
+category: "PhD course"
 # teacher
 # teacher: "Clark Malik"
 # duration
@@ -32,11 +32,11 @@ Anyone can apply for the course, but if you are not a PhD student at a Danish un
 ### Learning objectives
 A student who has met the objectives of the course will be able to:
 
-1. Understand the strengths and limitations of complex systems thinking in addressing public health problems.
-2. Identify public health problems that exhibit characteristics of complexity and justify the use of a systems thinking approach.
-3. Describe and apply the interdisciplinary Health Complexity Framework for generating knowledge on complex public health issues.
-4. Understand when systems methods such as causal loop diagrams and systems dynamics models may be useful and what these methods entail.
-5. Develop a research proposal that applies systems thinking to address a specific public health issue.
+- Understand the strengths and limitations of complex systems thinking in addressing public health problems.
+- Identify public health problems that exhibit characteristics of complexity and justify the use of a systems thinking approach.
+- Describe and apply the interdisciplinary Health Complexity Framework for generating knowledge on complex public health issues.
+- Understand when systems methods such as causal loop diagrams and systems dynamics models may be useful and what these methods entail.
+- Develop a research proposal that applies systems thinking to address a specific public health issue.
 
 ### Content
 Many public health problems show features of complex systems, characterized by feedback mechanisms and complex interactions among various factors and individuals across different spatial scales. Prominent examples of such complex public health problems include health inequality, obesity, multi-morbidity, and infectious disease epidemics. In order to comprehend and address such complexities, systems thinking is emerging as a new paradigm in public health research.
@@ -60,15 +60,15 @@ English
 This course comprises nine 3-hour sessions, consisting of group lectures, workshops, and an individual research project centered around the development of a research proposal. Finally, the students will present their research proposals to their peers.
 
 ### Course director
-Naja Hulvej Rod, Professor, Section of Epidemiology, Department of Public Health, University of Copenhagen, nahuro@sund.ku.dk
+Naja Hulvej Rod, Professor, Section of Epidemiology, Department of Public Health, University of Copenhagen 
+E-mail: nahuro@sund.ku.dk
 
+### Teachers
+- Harry Rutter, Professor, Department of Social and Policy Sciences, University of Bath
+- Morten Hulvej Rod, Professor, National Institute of Public Health, University of Southern Denmark
+- Naja Hulvej Rod, Professor, Department of Public Health, University of Copenhagen
+- Jeroen Uleman, Postdoctoral researcher, Department of Public Health, University of Copenhagen
+- Adrian Zucco, Postdoctoral researcher, Department of Public Health, University of Copenhagen
 
-Teachers
-Harry Rutter, Professor, Department of Social and Policy Sciences, University of Bath
-Morten Hulvej Rod, Professor, National Institute of Public Health, University of Southern Denmark
-Naja Hulvej Rod, Professor, Department of Public Health, University of Copenhagen
-Jeroen Uleman, Postdoctoral researcher, Department of Public Health, University of Copenhagen
-Adrian Zucco, Postdoctoral researcher, Department of Public Health, University of Copenhagen
-
-Dates
+### Dates
 26-29 February 2024 and 1 March 2024

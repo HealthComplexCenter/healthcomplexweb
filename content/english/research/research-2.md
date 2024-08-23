@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Understanding processes that generate inequality over the life course and across generations."
 # Research image
-image: "images/research/research-2.jpg"
+image: "images/research/equality_theme.jpeg"
 # type
 type: "research"
 ---

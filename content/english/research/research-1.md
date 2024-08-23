@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Understanding real-world health complexities among young adults."
 # Research image
-image: "images/research/research-1.jpg"
+image: "images/research/young_theme.jpeg"
 # type
 type: "research"
 ---

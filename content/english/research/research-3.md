@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Developing practical tools for analyzing complex health problems."
 # Research image
-image: "images/research/research-3.jpg"
+image: "images/research/complexity_theme.jpeg"
 # type
 type: "research"
 ---

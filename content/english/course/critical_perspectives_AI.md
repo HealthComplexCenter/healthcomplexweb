@@ -7,7 +7,7 @@ draft: false
 # meta description
 description : ""
 # course thumbnail
-image: "images/logo_squared.png"
+image: "images/courses/critical_ai_course.jpeg"
 # taxonomy
 category: "PhD course"
 # teacher

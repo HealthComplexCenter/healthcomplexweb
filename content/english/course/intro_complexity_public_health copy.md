@@ -7,11 +7,11 @@ draft: false
 # meta description
 description : ""
 # course thumbnail
-image: "images/logo_squared.png"
+image: "images/courses/complexity_course.jpeg"
 # taxonomy
 category: "PhD course"
 # teacher
-# teacher: "Clark Malik"
+teacher: "Naja Hulvej Rod"
 # duration
 duration : "5 days"
 # weekly

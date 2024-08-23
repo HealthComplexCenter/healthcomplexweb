@@ -81,10 +81,10 @@ about:
   enable : true
   title : "Copenhagen Health Complexity Center"
   image : "images/about/about-us.jfif"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "We, at the Copenhagen Health Complexity Center, are dedicated to advancing the understanding and management 
+  of complex public health challenges, particularly focusing on young adult health, healthcare inequalities, 
+  theoretical and methodological development in complexity science, and outreach and public dissemination 
+  concerning public health complexity."
   button:
     enable : true
     label : "Learn more"
@@ -113,11 +113,12 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "What is Health Complexity?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "The way public health problems are conceptualized shapes the kind of solutions we seek and the
+methods we use. Public health and the underlying disease processes are complex, often involving the interaction of biological,
+social, psychological, economic, and other processes that may be non-linear, adaptive, and have other
+features of complex systems. There is therefore a need to push the boundaries of public health
+beyond single-factor data analysis and capacitate its research methodology to tackle real-world
+complexities. The Copenhagen Health Complexity Center is at the forefront of this development."
   # video link
   video_link : "https://www.youtube.com/watch?v=NXWzj9sPD9k"
 

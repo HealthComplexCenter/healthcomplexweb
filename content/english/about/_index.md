@@ -11,13 +11,6 @@ description : ""
 
 ## ABOUT US
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+We, at the Copenhagen Health Complexity Center, are dedicated to advancing the understanding and management of complex public health challenges, particularly focusing on young adult health, healthcare inequalities, theoretical and methodological development in complexity science, and outreach and public dissemination concerning public health complexity.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+We are currently comprised of professors, associate professors, postdoctoral researchers, and PhD students from various disciplines, including epidemiology, public health, sociology, and computer science. Our group is strengthened by associate researchers and collaborators from the University of Copenhagen and international institutions.

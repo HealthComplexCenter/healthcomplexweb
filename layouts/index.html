@@ -30,6 +30,12 @@
 {{ end }}
 <!-- /hero slider -->
 
+<!-- success story -->
+{{ if $data.homepage.success_story.enable }}
+{{ partial "success-story.html" . }}
+{{ end }}
+<!-- /success story -->
+
 <!-- banner-feature -->
 {{ if $data.homepage.banner_feature.enable }}
 {{ with $data.homepage.banner_feature }}
@@ -136,7 +142,8 @@
     <!-- course list -->
     <div class="row justify-content-center">
       <!-- course item -->
-      {{ range first 6 (where site.RegularPages "Type" "course")}}
+      <!-- TODO change this when more courses available -->
+      {{ range first 1 (where site.RegularPages "Type" "course")}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
@@ -175,13 +182,6 @@
 {{ end }}
 {{ end }}
 <!-- /cta -->
-
-<!-- success story -->
-{{ if $data.homepage.success_story.enable }}
-{{ partial "success-story.html" . }}
-{{ end }}
-<!-- /success story -->
-
 
 
 <!-- blog -->

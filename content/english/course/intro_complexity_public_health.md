@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Complex Systems Approaches in Public Health"
-date: 2024-02-26
+date: 2024-26-02
 draft: false
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"

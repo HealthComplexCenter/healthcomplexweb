@@ -41,7 +41,7 @@ speaker:
     designation : "Teacher"
 
 # type
-type: "event"
+# type: "event"
 ---
 
 ### About Event

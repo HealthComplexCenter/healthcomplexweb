@@ -128,6 +128,7 @@
       "img-fluid",
       "justify-content-between",
       "justify-content-center",
+      "justify-content-start",
       "list-inline",
       "list-inline-item",
       "list-unstyled",

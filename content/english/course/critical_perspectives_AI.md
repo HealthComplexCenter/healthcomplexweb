@@ -1,6 +1,6 @@
 ---
 title: "Critical Perspectives on Artificial Intelligence and Automation"
-date: 2024-02-26
+date: 2024-02-12
 draft: false
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
@@ -20,7 +20,7 @@ duration : "4 days"
 # fee : "From: $699"
 # apply url
 apply_url : "https://phdcourses.ku.dk/DetailKursus.aspx?id=112139&sitepath=SUND"
-# type
+# Type
 type: "course"
 ---
 

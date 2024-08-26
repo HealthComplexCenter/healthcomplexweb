@@ -105,9 +105,10 @@
         </div>
       </div>
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-start">
       <!-- event -->
-      {{ range first 3 (where site.RegularPages "Type" "event")}}
+      <!-- TODO change this when more events available -->
+      {{ range first 1 (where site.RegularPages "Type" "event")}}
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "event" }}
       </div>
@@ -140,10 +141,10 @@
       </div>
     </div>
     <!-- course list -->
-    <div class="row justify-content-center">
+    <div class="row justify-content-start">
       <!-- course item -->
       <!-- TODO change this when more courses available -->
-      {{ range first 1 (where site.RegularPages "Type" "course")}}
+      {{ range first 3 (where site.RegularPages "Type" "course")}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>

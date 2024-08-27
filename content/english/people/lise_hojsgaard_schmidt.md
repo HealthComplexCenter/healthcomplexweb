@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Center Coordination"
 # biography
-bio: "Coming soon"
+bio: Center Coordinator
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

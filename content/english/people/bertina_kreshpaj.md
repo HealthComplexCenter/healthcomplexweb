@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Assistant Professor"
 # biography
-bio: "Coming soon"
+bio: Assistant Professor
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -36,4 +36,6 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+I am currently a Postdoc researcher in the Complexity and Big Data research group at the Section of Epidemiology, and I am also affiliated to the new World of Work research group at the Occupational Medicine Unit at Karolinska Institutet in Stockholm, where I completed my PhD.
+
+To successfully tackle social and health inequalities, I strongly believe we need increased collaboration across different scientific fields. For this reason my research interest mainly lies at the intersection of Occupational and Social Epidemiology, but also Migration Health, Economics, Health Policy, Labour Market studies, Sociology, etc. Also, I have a particular interest in adopting a life-course approach and advanced statistical methods to investigate many of these Public Health challenges, to better understand and disentangle life course mechanisms that may affect health.

@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Postdoc"
 # biography
-bio: "Coming soon"
+bio: Postdoc
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

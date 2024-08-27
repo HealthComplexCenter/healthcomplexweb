@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Visiting Researcher"
 # biography
-bio: "Coming soon"
+bio: Visiting Researcher
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

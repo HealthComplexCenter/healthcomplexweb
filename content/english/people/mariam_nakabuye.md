@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Research Assistant"
 # biography
-bio: "Coming soon"
+bio: Research Assistant
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

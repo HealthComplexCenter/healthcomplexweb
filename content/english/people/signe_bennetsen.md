@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Doctoral Student"
 # biography
-bio: "Coming soon"
+bio: Doctoral Student
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

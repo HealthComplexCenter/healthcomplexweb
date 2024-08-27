@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Professor"
 # biography
-bio: "Coming soon"
+bio: Associate Researcher
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -36,4 +36,4 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+My research involves methodological research within statistics as well as a wide range of applied collaborations with medical doctors, epidemiologists, psychologists etc. My methodological work is focused on causal inference i.e. a formal framework for addressing cause and effect. Methods I have developed have been broadly applied and its novelty recognized by the 2012 Kenneth Rothman Prize. My applied collaborations span from RCTs to complex longitudinal observational studies and from intensive care research to psychology.

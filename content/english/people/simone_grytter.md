@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Assistant Professor"
 # biography
-bio: "Coming soon"
+bio: Assistant Professor
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -36,4 +36,6 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+I work as curator and project manager for the Appendix project at medical Museion, Department of Public Health and NNF Centre for Basic Metabolic Research (CBMR).
+
+I have a background in visual and medical anthropology, and a PhD from Medical Museion. Please get in touch if you have any questions, are interested in collaborations, events, and proposals, or if you would simply like to hear more.

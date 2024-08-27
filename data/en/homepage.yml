@@ -44,7 +44,7 @@ blog:
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
@@ -79,8 +79,8 @@ event:
 
 about:
   enable : true
-  title : "Copenhagen Health Complexity Center"
-  image : "images/about/about-us.jfif"
+  title : "Who are we?"
+  image : "images/about/logo_us.png"
   content : "We, at the Copenhagen Health Complexity Center, are dedicated to advancing the understanding and management 
   of complex public health challenges, particularly focusing on young adult health, healthcare inequalities, 
   theoretical and methodological development in complexity science, and outreach and public dissemination 
@@ -111,7 +111,7 @@ course:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
+  bg_image : "images/backgrounds/faces.jpeg"
   title : "What is Health Complexity?"
   content : "The way public health problems are conceptualized shapes the kind of solutions we seek and the
 methods we use. Public health and the underlying disease processes are complex, often involving the interaction of biological,

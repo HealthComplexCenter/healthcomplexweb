@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Meet our team"
 # teacher portrait
-image: "images/teachers/person.jpeg"
+image: "images/teachers/theis_lange.jpeg"
 # course
 course: "Professor"
 # biography

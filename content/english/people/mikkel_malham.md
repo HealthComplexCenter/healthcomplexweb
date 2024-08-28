@@ -31,4 +31,4 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+Mikkel Malham graduated as a medical doctor from Aarhus University in 2009. He qualified as a pediatrician in 2022 and is now completing a fellowship in pediatric gastroenterology. His main area of research is the epidemiology of paediatric-onset inflammatory bowel disease. As a visiting researcher at the Copenhagen Health Complexity Center, he focuses on the long-term consequences of pediatric-onset immune-mediated inflammatory diseases and how childhood adversities affect the disease course of these diseases. 

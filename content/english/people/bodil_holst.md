@@ -10,7 +10,7 @@ image: "images/teachers/person.jpeg"
 # course
 course: "Center Coordination"
 # biography
-bio: Center Secretary
+bio: Project Coordinator | Center Secretary
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -36,4 +36,5 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+Education: MA in language (English), bachelor in French
+Job tasks: planning of meetings, travel booking, travel reimbursements, procurement of groceries, planning of meetings/writing of minutes, ordering of IT equipment, approval of invoices in IndFak, ID-cards, contact person to cleaning and campus service, ordering of canteen services, booking of meeting rooms, proofreading

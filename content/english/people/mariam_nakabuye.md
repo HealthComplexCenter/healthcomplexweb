@@ -41,4 +41,4 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+Mariam has a Bachelor’s degree in Biomedical Laboratory Sciences and a Master’s degree in Immunologoy and Clinical Microbiology. Her project as a Research Assistant currently focuses on the analysis of the NeuroGAP-Psychosis data to identify subtypes of psychosis. 

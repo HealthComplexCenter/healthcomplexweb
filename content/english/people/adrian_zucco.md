@@ -18,15 +18,14 @@ contact:
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:adrigabzu@sund.ku.dk"
 
+  - name : "https://adrianzucco.com/"
+    icon : "ti-user" # icon pack : https://themify.me/themify-icons
+    link : "https://adrianzucco.com/"
+
   # tel
   - name : "+4535331363"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+4535331363"
-
-  # linkedin
-  - name : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
-    icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "https://www.linkedin.com/in/adrian-gabriel-zucco-82184a72/"
 
   # github
   - name : "https://github.com/adrigabzu"

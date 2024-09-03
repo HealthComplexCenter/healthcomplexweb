@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Meet our team"
 # teacher portrait
-image: "images/teachers/tibor_v_varga.jpeg"
+image: "images/teachers/tibor_v_varga.png"
 # course
 course: "Associate Professor"
 # biography

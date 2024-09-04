@@ -41,4 +41,4 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+I’m a PhD student at the Algorithmic Fairness group where I look into type 2 diabetes risk prediction models and how fair they are for minorities. My background is in statistics and my interest lies mainly in the intersection of minority health, health equity, data visibility, and statistical methods.

@@ -8,7 +8,10 @@ description : "We are proud to share our researchers' opinion pieces on various 
 ---
 
 ## 2024
-Denise Utochkin. Cut the 'AI' Bullshit, UCPH. **https://uniavisen.dk/en/cut-the-ai-bullshit-ucph/**
 
-Tibor V. Varga, Amy Clotworthy, Signe Kær Bennetsen, Long Nguyen. Prisen for god tavleorden. **https://www.weekendavisen.dk/2024-19/ideer/prisen-for-god-tavleorden**
+Signe Kær Bennetsen, Naja Hulvej Rod. Ny slankemedicin betyder ikke, at vi bare kan slænge benene op på divaneseren. Berlingske. **https://www.berlingske.dk/kommentatorer/ny-slankemedicin-betyder-ikke-at-vi-bare-kan-slaenge-benene-op-paa**
+
+Denise Utochkin. Cut the 'AI' Bullshit, UCPH. University of Copenhagen University Post. **https://uniavisen.dk/en/cut-the-ai-bullshit-ucph/**
+
+Tibor V. Varga, Amy Clotworthy, Signe Kær Bennetsen, Long Nguyen. Prisen for god tavleorden. Weekendavisen. **https://www.weekendavisen.dk/2024-19/ideer/prisen-for-god-tavleorden**
 

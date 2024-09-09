@@ -1,12 +1,12 @@
 ---
-title: "Tove Alma Klasson"
+title: "Tove Klasson"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Meet our team"
 # teacher portrait
-image: "images/teachers/john_cena.png"
+image: "images/teachers/tove_klasson.png"
 # course
 course: "Research Assistant"
 # biography
@@ -36,4 +36,4 @@ type: "teacher"
 
 ### About Me
 
-Coming soon
+I work as a research assistant on the SmartSleep Program. My project focuses on correlations between sleep, nighttime smartphone use, and co-sleeping. I am at the beginning of my career and am curious about broadening my competencies. I have a bachelor’s degree in sociology and a master’s in social scientific data analysis from Lund University (Sweden). My earlier research experience from work during my studies and my thesis has focused on residential segregation, school segregation, and equal access to quality education. 

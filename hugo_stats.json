@@ -248,6 +248,7 @@
       "about-notice",
       "about-us",
       "aim-and-content",
+      "coming-soon",
       "content",
       "course-director",
       "dates",
@@ -259,6 +260,7 @@
       "mail",
       "map_canvas",
       "message",
+      "mission",
       "name",
       "navigation",
       "participants",
@@ -268,7 +270,9 @@
       "section-11033-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc",
       "subject",
       "teachers",
-      "the-standard-lorem-ipsum-passage-used-since-the-1500s"
+      "the-standard-lorem-ipsum-passage-used-since-the-1500s",
+      "values",
+      "vision"
     ]
   }
 }

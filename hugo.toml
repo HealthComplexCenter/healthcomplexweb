@@ -191,6 +191,11 @@ weight = 1
   name = "Public engagement"
   url = "engagement/"
 
+    [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "Opinions"
+  url = "opinions/"
+
 [[Languages.en.menu.main]]
 name = "Education"
 url = "education/"

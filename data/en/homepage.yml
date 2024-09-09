@@ -4,26 +4,26 @@ slider:
   bg_image : "images/banner/banner-1.png"
   slider_item:
     # slider item loop
-    - title : "Health: A Tangled Web"
-      content : "Health is a complex and interconnected web of factors, much like a spider web. Each strand represents a different aspect—physical, mental, social, and environmental health."
+    - title : "Copenhagen Health Complexity Center"
+      content : "Our mission is to improve human lives in Denmark and globally by investigating and analyzing complex health and social issues. Through collaboration and interdisciplinary research on health complexity, we seek to address the underlying dynamics of public-health challenges. Contact us to learn more about our research."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Learn more"
+        label : "Contact Us"
         link : "contact/"
 
     # slider item loop
-    - title : "This page is under construction"
-      content : "Content is emerging, developers are interacting"
+    - title : "Our Vision"
+      content : "Our vision is to understand real-world health complexities and develop a strong scientific basis for public health. This is an important milestone toward fair and equal public-health systems that pay attention to the specific health needs of vulnerable populations. To explore our research teams, click below."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Patience is a virtue"
-        link : "contact/"
+        label : "Our Research"
+        link : "research/"
 
     # slider item loop
     # - title : "Your bright future is our mission"

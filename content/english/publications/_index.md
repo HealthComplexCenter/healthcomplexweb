@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : ''
+description : 'We are proud to feature our latest publications from researchers at the Copenhagen Health Complexity Center.'
 ---
 
 ## 2024

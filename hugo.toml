@@ -227,11 +227,6 @@ hasChildren = true
   name = "Advisory group"
   url = "advisory/"
 
-  [[Languages.en.menu.main]]
-  parent = "Community"
-  name = "Fellows"
-  url = "fellows/"
-
 [[Languages.en.menu.main]]
 weight = 4
 name = "About us"

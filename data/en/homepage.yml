@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Our Vision"
-      content : "Our vision is to understand real-world health complexities and develop a strong scientific basis for public health. This is an important milestone toward fair and equal public-health systems that pay attention to the specific health needs of vulnerable populations. To explore our research teams, click below."
+      content : "Our vision is to understand real-world health complexities and develop a strong scientific basis for public health. This is an important milestone toward fair and equal public-health systems that pay attention to the specific health needs of vulnerable populations. To explore our research themes, click below."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

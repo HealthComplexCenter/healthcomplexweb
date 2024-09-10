@@ -1,10 +1,10 @@
 ---
-title: "Opinions"
+title: "Viewpoints"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "We are proud to share our researchers' opinion pieces on various topics related to health and well-being, complexity, research, teaching, and other topics, as long as they are respectful and evidence-based. These opinions represent the views of the authors and not those of the Copenhagen Health Complexity Center."
+description : "We are proud to share our researchers' viewpoint and opinion pieces on various topics related to health and well-being, complexity, research, teaching, and other topics, as long as they are respectful and evidence-based. These viewpoints and opinions represent the views of the authors and not those of the Copenhagen Health Complexity Center."
 ---
 
 ## 2024

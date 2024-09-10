@@ -193,8 +193,8 @@ weight = 1
 
     [[Languages.en.menu.main]]
   parent = "Research"
-  name = "Opinions"
-  url = "opinions/"
+  name = "Viewpoints"
+  url = "viewpoints/"
 
 [[Languages.en.menu.main]]
 name = "Education"

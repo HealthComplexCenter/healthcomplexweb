@@ -89,6 +89,8 @@ link = "plugins/google-map/gmap.js"
 #################### default parameters ################################
 [params]
 logo = "images/logo_green.png"
+tryglogo = "images/trygfonden_large.png"
+kulogo = "images/ku_logo.png"
 # Meta data
 description = "Official website of the Copenhagen Health Complexity Center"
 author = "University of Copenhagen"

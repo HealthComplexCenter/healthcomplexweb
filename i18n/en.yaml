@@ -82,6 +82,9 @@
 - id: company
   translation: company
 
+- id: supported_by
+  translation: Suported by
+
 - id: links
   translation: links
 

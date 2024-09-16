@@ -27,7 +27,7 @@
   <div class="footer bg-footer section border-bottom">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-sm-8 mb-5 mb-lg-0">
+        <div class="col-lg-6 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
           <!-- <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a> -->
           <ul class="list-unstyled">
@@ -36,17 +36,19 @@
             <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
           </ul>
         </div>
-        <!-- company -->
-        <!-- <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "company" }}</h4>
-          <ul class="list-unstyled">
+        <!-- support -->
+        <div class="col-lg-4 col-sm- col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">Supported by:</h4>
+          <a class="logo-footer" href="https://www.tryghed.dk/"><img class="img-fluid mb-4" src="{{ site.Params.tryglogo | absURL }}" alt="{{ site.Title }}"></a>
+          <a class="logo-footer" href="https://publichealth.ku.dk/"><img class="img-fluid mb-4" src="{{ site.Params.kulogo | absURL }}" alt="{{ site.Title }}"></a>
+          <!-- <ul class="list-unstyled">
             {{ range site.Menus.main }}
             {{ if not .HasChildren }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
             {{ end }}
-          </ul>
-        </div> -->
+          </ul> -->
+        </div>
         <!-- links -->
         <!-- <div class="col-lg-4 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "links" }}</h4>

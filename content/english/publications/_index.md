@@ -8,7 +8,7 @@ description : 'We are proud to feature our latest publications from researchers 
 ---
 
 ## 2024
-- Ganna A, Carracedo A, Christiansen CF, Di Angelantonio E, Dykstra PA, Dzhambov AM, Eils R, Green S, Schneider KL, Varga TV, Vuorinen AL, Zuccolo L, Rod NH, Hoeyer K. The European Health Data Space can be a boost for research beyond borders. Nat Med. 2024 Sep 12. **https://10.1038/s41591-024-03246-6**
+- Ganna A, Carracedo A, Christiansen CF, Di Angelantonio E, Dykstra PA, Dzhambov AM, Eils R, Green S, Schneider KL, Varga TV, Vuorinen AL, Zuccolo L, Rod NH, Hoeyer K. The European Health Data Space can be a boost for research beyond borders. Nat Med. 2024 Sep 12. **https://doi.org/10.1038/s41591-024-03246-6**
 
 - Rod NH, Kreshpaj B, Stronks K. A complex systems lens can help us understand drivers of emerging challenges in work and health. Scand J Work Environ Health. 2024 Jul 2:4178. doi: **https://doi.org/10.5271/sjweh.4178**
 

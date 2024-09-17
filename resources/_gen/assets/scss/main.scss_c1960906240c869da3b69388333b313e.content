@@ -766,6 +766,7 @@ link:focus,
   background-color: #329766; }
 
 .logo-footer {
+  opacity: 0.8;
   display: inline-block; }
 
 .footer {

@@ -34,13 +34,14 @@
             <li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
             <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
+            <li class="mb-4">Department of Public Health</li>
           </ul>
+          <a class="logo-footer" href="https://publichealth.ku.dk/"><img class="img-fluid mb-4" src="{{ site.Params.kulogo | absURL }}" alt="{{ site.Title }}"></a>
         </div>
         <!-- support -->
         <div class="col-lg-4 col-sm- col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">Supported by:</h4>
           <a class="logo-footer" href="https://www.tryghed.dk/"><img class="img-fluid mb-4" src="{{ site.Params.tryglogo | absURL }}" alt="{{ site.Title }}"></a>
-          <a class="logo-footer" href="https://publichealth.ku.dk/"><img class="img-fluid mb-4" src="{{ site.Params.kulogo | absURL }}" alt="{{ site.Title }}"></a>
           <!-- <ul class="list-unstyled">
             {{ range site.Menus.main }}
             {{ if not .HasChildren }}

@@ -21,7 +21,7 @@ duration : "5 days"
 # apply url
 apply_url : "https://phdcourses.ku.dk/DetailKursus.aspx?id=110968&sitepath=SUND"
 # type
-type: "course"
+type: "courses"
 ---
 
 ### Aim and content

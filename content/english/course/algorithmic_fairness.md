@@ -21,7 +21,7 @@ duration : "4 days"
 # apply url
 apply_url : ""
 # Type
-type: "course"
+type: "courses"
 ---
 
 ### Learning objectives

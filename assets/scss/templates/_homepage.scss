@@ -224,9 +224,19 @@
 
 .logo-footer {
   // margin-top: -20px;
-  opacity: 0.8;
+  // opacity: 0.8;
+  display: inline-block;
+  max-width: 60%;
+}
+
+.logo-fund {
+  // margin-top: -20px;
+  filter: brightness(0%);
+  max-width: 60%;
+  // opacity: 0.1;
   display: inline-block;
 }
+
 
 .footer {
   border-color: $border-color !important;

@@ -8,13 +8,13 @@ Once installed open a terminal in the root folder of this project and run `hugo 
 
 ## To-do list
 
-- [X] Implemenent content folder structure
-- [X] Ensure visual consitency in pages that are not the homepage (edit CSS files)
-- [X] Fix the refenrencing to localhost
-- [X] Remove DK support
-- [X] Remove columns and links from the footer
-- [X] Deploy to Netlify
-- [x] Add web address and ensure https
+- [ ] Fix list of courses in the homepage
+- [ ] Fix bug when accessing the people page
+- [ ] Reduce resolution of people images
+- [ ] Fix bug in navigation bar in the phone version
+- [ ] Add animation in the background of the homepage e.g center video as animation
+- [ ] Add a search bar
+- [ ] Embbed video in the homepage
 
 ## Content
 

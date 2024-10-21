@@ -8,8 +8,8 @@ Once installed open a terminal in the root folder of this project and run `hugo 
 
 ## To-do list
 
-- [ ] Fix list of courses in the homepage
-- [ ] Fix bug when accessing the people page
+- [X] Fix list of courses in the homepage
+- [X] Fix bug when accessing the people page
 - [ ] Reduce resolution of people images
 - [ ] Fix bug in navigation bar in the phone version
 - [ ] Add animation in the background of the homepage e.g center video as animation

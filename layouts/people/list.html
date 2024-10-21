@@ -1,17 +1,14 @@
 {{ define "main" }}
 
-<head>
-  <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
-  <META HTTP-EQUIV="Expires" CONTENT="-1">
-</head>
-
-<script language=" JavaScript" >
-
-function LoadOnce() 
-{ 
-window.location.reload(); 
-} 
-
+<script>
+  window.onload = function() {
+    if(!localStorage.loaded) {
+        localStorage.setItem('loaded', 'yes')
+        setTimeout(function () {
+      window.location.reload();
+    }, 1000);
+    }
+};
 </script>
 
 <!-- teachers -->
@@ -24,6 +21,7 @@ window.location.reload();
           <li class="list-inline-item m-3 text-uppercase active" data-filter="all">{{ i18n "all" }}</li>
           {{ $categories := slice }}
           {{ range .Data.Pages }}
+          <!-- TODO change this to not use course as the label for position -->
           {{ $categories = $categories | append .Params.Course }}
           {{ end }}
           {{ range ( $categories | uniq ) }}

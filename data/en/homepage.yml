@@ -4,6 +4,16 @@ slider:
   bg_image : "images/banner/banner-1.png"
   slider_item:
     # slider item loop
+    - title : "Web in development"
+      content : "As dynamic as the field of public health itself, our website is currently under construction. We are working hard to bring you the latest news and updates on our research and activities. In the meantime, feel free to contact us for more information."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Contact Us"
+        link : "contact/"
+
     - title : "Copenhagen Health Complexity Center"
       content : "Our mission is to improve human lives in Denmark and globally by investigating and analyzing complex health and social issues. Through collaboration and interdisciplinary research on health complexity, we seek to address the underlying dynamics of public-health challenges. Contact us to learn more about our research."
       animation_in : "left"

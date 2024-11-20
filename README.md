@@ -1,5 +1,5 @@
 # healthcomplexweb
-Repository of the Copenhagen Health Complexity website
+Repository of the Copenhagen Health Complexity second website under development
 
 ## Pre-requisites
 

@@ -1,4 +1,5 @@
 ######################## default configuration ####################
+# Uncomment this to change url to normal path
 baseURL = "https://healthcomplex.dk/"
 title = "Copenhagen Health Complexity Center"
 theme = "educenter-hugo"
@@ -29,7 +30,6 @@ target = '(css|styles|scss|sass)'
 [[build.cachebusters]]
 source = 'assets/.*\.(.*)$'
 target = '$1'
-
 
 ############################# Outputs ##############################
 [outputs]

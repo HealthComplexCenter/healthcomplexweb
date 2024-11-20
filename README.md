@@ -1,6 +1,8 @@
 # healthcomplexweb
 Repository of the Copenhagen Health Complexity second website under development
 
+> Note: The deployed website currently redirects to https://publichealth.ku.dk/healthcomplex .To test the website without this functionality, remove the lines 1-6 in the `layouts/index.html` file.
+
 ## Pre-requisites
 
 Install `Hugo`, `Go` and `NodeJS` using the [following guide](https://docs.gethugothemes.com/educenter/installation/).
